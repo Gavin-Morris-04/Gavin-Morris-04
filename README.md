@@ -2,9 +2,9 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/gavin.hmorris) 
 
 Hey, I am Gavin Morris and this is a little bit about me
-- 🔭 I’m currently working on getting a internship/job
-- 🌱 I’m currently learning with edx
+- 🔭 I’m currently looking for a internship/job
+- 🌱 I’m currently a freshman pursuing a Bachelor's Degree in Computer Science at Louisiana State University 
 - 💬 Ask me about: What I like to eat
-- 🧰 I build with: Python Django, JavaScript, Next.js, Tailwind
-- ⚡ Fun fact: I like to golf and play Overwatch 2
-- 📫 How to reach me: gmorriscs@gmail.com
+- 🧰 I build with: HTML, CSS, Java, Python, Java Script
+- ⚡ Fun fact: I like to read, golf, and basketball
+- 📫 How to reach me: gmorriscs@gmail.com 
