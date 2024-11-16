@@ -3,7 +3,7 @@
 
 Hey, I am Gavin Morris and this is a little bit about me
 - 🔭 I’m currently looking for a internship/job
-- 🌱 I’m currently a Sophomore pursuing a Bachelor's Degree in Computer Science at Louisiana State University 
+- 🌱 I’m currently a Sophomore pursuing a BS in Computer Science at Louisiana State University 
 - 💬 Ask me about: What I like to eat.
 - 🧰 I build with: HTML, CSS, Java, Python, Java Script
 - ⚡ Fun fact: I like to read, golf, and basketball
